@@ -1,0 +1,6 @@
+D:\REPO\SAPAdmin\SAPAdmin\bin\Debug\SAPAdmin.dll
+D:\REPO\SAPAdmin\SAPAdmin\bin\Debug\SAPAdmin.pdb
+D:\REPO\SAPAdmin\SAPAdmin\bin\Debug\sapnco.dll
+D:\REPO\SAPAdmin\SAPAdmin\bin\Debug\sapnco_utils.dll
+D:\REPO\SAPAdmin\SAPAdmin\obj\Debug\SAPAdmin.dll
+D:\REPO\SAPAdmin\SAPAdmin\obj\Debug\SAPAdmin.pdb
