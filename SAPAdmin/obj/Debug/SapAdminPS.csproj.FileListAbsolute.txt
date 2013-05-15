@@ -4,3 +4,13 @@ D:\REPO\SAPAdmin\SAPAdmin\bin\Debug\sapnco.dll
 D:\REPO\SAPAdmin\SAPAdmin\bin\Debug\sapnco_utils.dll
 D:\REPO\SAPAdmin\SAPAdmin\obj\Debug\SAPAdmin.dll
 D:\REPO\SAPAdmin\SAPAdmin\obj\Debug\SAPAdmin.pdb
+D:\REPO\SAPAdminPS\SAPAdmin\bin\Debug\SAPAdmin.dll
+D:\REPO\SAPAdminPS\SAPAdmin\bin\Debug\SAPAdmin.pdb
+D:\REPO\SAPAdminPS\SAPAdmin\bin\Debug\sapnco.dll
+D:\REPO\SAPAdminPS\SAPAdmin\bin\Debug\sapnco_utils.dll
+D:\REPO\SAPAdminPS\SAPAdmin\obj\Debug\SAPAdmin.dll
+D:\REPO\SAPAdminPS\SAPAdmin\obj\Debug\SAPAdmin.pdb
+D:\REPO\SAPAdminPS\SAPAdmin\bin\Release\SAPAdmin.dll
+D:\REPO\SAPAdminPS\SAPAdmin\bin\Release\SAPAdmin.pdb
+D:\REPO\SAPAdminPS\SAPAdmin\bin\Release\sapnco.dll
+D:\REPO\SAPAdminPS\SAPAdmin\bin\Release\sapnco_utils.dll
